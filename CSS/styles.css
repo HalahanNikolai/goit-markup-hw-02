@@ -52,17 +52,18 @@ ul {
 } */
 .logo {
   text-decoration: none;
-  font-family: "Raleway";
+  font-family: "Raleway", "sans-serif";
   /* font-style: normal; */
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 1.18;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
   letter-spacing: 0.03em;
-  color: #000;
+  color: #4d5ae5;
+  text-transform: uppercase;
 }
 
 .logo-part {
-  color: #4d5ae5;
+  color: #2e2f42;
 }
 
 .nav-link {
