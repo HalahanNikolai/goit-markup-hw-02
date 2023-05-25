@@ -97,11 +97,10 @@ ul {
 } */
 /************************************************************************************************************* */
 .studio-btn {
-  /* position: ; */
-  width: 216px;
+  /* width: 216px;
   height: 50px;
   left: 692px;
-  top: 524px;
+  top: 524px; */
   background: #4d5ae5;
 }
 .studio-btn:hover,
@@ -113,10 +112,10 @@ ul {
   font-weight: 700;
   font-size: 16px;
   line-height: calc(30 / 16);
-  /* display: flex; */
-  align-items: center;
+  /*? display: flex; */
+  /* align-items: center;
   text-align: center;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.06em; */
   color: #ffffff;
 }
 /************************************************************************************************************* */
@@ -183,14 +182,12 @@ ul {
 
 /* ******************************************** CSS_text for main page (studio) *****************************************/
 .studio-main-sect1 {
-  /* background-color: #2f303a; */
-  /* position: absolute; */
   background: #2f303a;
 
-  width: 1600px;
+  /* width: 1600px;
   height: 600px;
   left: 0px;
-  top: 174px;
+  top: 174px; */
 }
 
 .studio-main-text1 {
@@ -276,8 +273,8 @@ footer {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   column-count: 1;
-  column-width: 50px;
-  column-gap: 20px;
+  /* column-width: 50px;
+  column-gap: 20px; */
 }
 .nav-link1 {
   text-decoration: none;
@@ -308,31 +305,29 @@ footer {
 
 .link.nav-link3:hover,
 .link.nav-link3:focus {
-  color: #2196f3;
+  color: #404bbf;
 }
 .footer-adr {
-  display: block;
+  /* display: block; */
   font-style: normal;
 }
 /* ************************************************vvvvvvvvvvvvvv******************************************* */
 /* .studio-pictures1 */
 .chym_zaymaemos {
-  display: flex;
-  flex-direction: row;
+  /* display: flex;
+  flex-direction: row; */
   margin: 2%;
-  /* padding: 5px; */
 }
 
 .nashaKomanda {
-  display: flex;
-  flex-direction: row;
+  /* display: flex;
+  flex-direction: row; */
   margin: 2%;
 }
 
-/* ************************************ PORTFOLIO ********************************** */
+/* *************************************************** PORTFOLIO ******************************************** */
 .buttons-filtres {
-  /*flex-col */
-  align-items: center;
+  /* align-items: center;
   display: flex;
   gap: 8px;
   height: 54px;
@@ -340,14 +335,12 @@ footer {
   min-height: 54px;
   width: 73px;
 
-  white-space: nowrap;
-  /* padding-inline: 50%; */
-  /* text-align: center; */
+  white-space: nowrap; */
 }
 
 /* .pic-box1  */
 .pics {
-  align-items: center;
+  /* align-items: center;
   background-color: #f5f4fa;
   border: 1px solid;
   border-color: #757575;
@@ -355,6 +348,9 @@ footer {
   flex-direction: column;
   gap: 20px;
   min-height: 400px;
-  width: 370px;
+  width: 370px; */
 }
-/* test */
+/*? ****************** HEADER  ******************/
+.list {
+  list-style: none;
+}
