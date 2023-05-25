@@ -1,5 +1,5 @@
 :root {
-  --main-light-color: #ffffff;
+  --main-light-color: #2e2f42;
   --main-font-color: #434455;
   --secondary-font-color: #212121;
   --accent-color: #2196f3;
@@ -52,7 +52,7 @@ ul {
 } */
 .logo {
   text-decoration: none;
-  font-family: "Raleway", "sans-serif";
+  font-family: "Raleway", sans-serif;
   /* font-style: normal; */
   font-weight: 800;
   font-size: 18px;
@@ -69,7 +69,8 @@ ul {
 .nav-link {
   text-decoration: none;
   font-weight: 500;
-  line-height: calc(16 / 14);
+  font-size: 16px; /*temp  test*/
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
@@ -353,4 +354,8 @@ footer {
 /*? ****************** HEADER  ******************/
 .list {
   list-style: none;
+}
+/*? ****************** MAIN  ******************/
+.section-1 {
+  background-color: var(--main-light-color);
 }
