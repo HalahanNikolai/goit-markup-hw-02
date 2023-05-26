@@ -1,5 +1,5 @@
 :root {
-  --main-light-color: #2e2f42;
+  --main-light-color: #ffffff;
   --main-font-color: #434455;
   --secondary-font-color: #212121;
   --accent-color: #2196f3;
@@ -356,6 +356,6 @@ footer {
   list-style: none;
 }
 /*? ****************** MAIN  ******************/
-.section-1 {
+.section-btn {
   background-color: var(--main-light-color);
 }
