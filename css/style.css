@@ -9,6 +9,7 @@
   --section-team-bg-color: #f5f4fa;
   --color-text-nav-link: #212121;
   --foot-color-bckgrnd: #2e2f42;
+  --notmain-color: #2e2f42;
 }
 /*Global styles*/
 body {
@@ -188,6 +189,9 @@ ul {
   background-color: #2e2f42;
 }
 
+.about-us-list {
+  list-style: none;
+}
 .studio-main-text1 {
   font-weight: 900;
   font-size: 56px;
@@ -198,13 +202,12 @@ ul {
   color: #ffffff;
   background-color: #2e2f42;
 }
-.studio-main-text2 {
-  font-weight: 700;
-  font-size: 14px;
-  line-height: calc(16 / 14);
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #2e2f42;
+.studio-main-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--notmain-color);
 }
 .about-us {
 }
