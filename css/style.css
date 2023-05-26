@@ -93,15 +93,16 @@ ul {
 .studio-btn {
   font-family: inherit;
   font-weight: 500;
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: var(--hero-sect-color);
+  color: #ffffff;
   background-color: #4d5ae5;
   cursor: pointer;
 }
 .studio-btn:hover,
 .studio-btn:focus {
-  background: #2196f3;
+  background-color: #404bbf;
   cursor: pointer;
 }
 .studio-btn-txt {
@@ -109,9 +110,6 @@ ul {
   font-size: 16px;
   line-height: calc(30 / 16);
   /*? display: flex; */
-  /* align-items: center;
-  text-align: center;
-  letter-spacing: 0.06em; */
   color: #ffffff;
 }
 /************************************************************************************************************* */
@@ -186,7 +184,7 @@ ul {
 }
 
 /* ********************************************  main (studio) *****************************************/
-.studio-main-sect1 {
+.stud_main_sect_1 {
   background-color: #2e2f42;
 }
 
