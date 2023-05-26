@@ -181,7 +181,7 @@ ul {
   color: #757575;
 }
 
-/* ******************************************** CSS_text for main page (studio) *****************************************/
+/* ********************************************  main (studio) *****************************************/
 .studio-main-sect1 {
   background: #2f303a;
 
@@ -193,8 +193,8 @@ ul {
 
 .studio-main-text1 {
   font-weight: 900;
-  font-size: 44px;
-  line-height: calc(60 / 44);
+  font-size: 56px;
+  line-height: 1.07;
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -207,6 +207,8 @@ ul {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
+}
+.about-us {
 }
 /* .studio-main-text22 {
   font-weight: 64px;
@@ -367,3 +369,7 @@ footer {
 .section-btn {
   background-color: var(--main-light-color);
 }
+
+/* .pic-list{
+  background-color:#2e2f42; 
+} */
