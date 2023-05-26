@@ -359,6 +359,9 @@ footer {
 .adr-list {
   font-style: normal;
 }
+.link {
+  text-decoration: none;
+}
 
 /*? ****************** MAIN  ******************/
 .section-btn {
