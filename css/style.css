@@ -355,9 +355,9 @@ footer {
   list-style: none;
   font-style: normal;
 }
-/* .adr-list {
-
-} */
+.adr-list {
+  font-style: normal;
+}
 .link {
   text-decoration: none;
 }
