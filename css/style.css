@@ -122,6 +122,14 @@ ul {
   /* color: #212121; */
   /* background-color: #f5f4fa; */
 }
+.btn1 {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  cursor: pointer;
+  background-color: #f4f4fd;
+}
 
 .btn1:hover,
 .btn1:focus {
