@@ -183,12 +183,7 @@ ul {
 
 /* ********************************************  main (studio) *****************************************/
 .studio-main-sect1 {
-  background: #2f303a;
-
-  /* width: 1600px;
-  height: 600px;
-  left: 0px;
-  top: 174px; */
+  background-color: #2e2f42;
 }
 
 .studio-main-text1 {
@@ -196,7 +191,7 @@ ul {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.02em;
   text-transform: uppercase;
   color: #ffffff;
   background-color: #2e2f42;
