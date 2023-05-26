@@ -8,6 +8,7 @@
   --border-bg-color: #2f303a;
   --section-team-bg-color: #f5f4fa;
   --color-text-nav-link: #212121;
+  --foot-color-bckgrnd: #2e2f42;
 }
 /*Global styles*/
 body {
@@ -261,9 +262,9 @@ footer {
   color: #f4f4fd;
 }
 
-/* .logo-part2 {
-  color: #2196f3;
-} */
+.logo-part2 {
+  color: #f4f4fd;
+}
 
 .nav-link2 {
   text-decoration: none;
@@ -375,3 +376,7 @@ footer {
 /* .pic-list{
   background-color:#2e2f42; 
 } */
+/*? ****************** FOOTER  ******************/
+.footer-bg {
+  background-color: var(--foot-color-bckgrnd);
+}
