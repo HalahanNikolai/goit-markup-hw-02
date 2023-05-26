@@ -375,25 +375,3 @@ footer {
 /* .pic-list{
   background-color:#2e2f42; 
 } */
-.portfolio {
-}
-.portfolio-list {
-}
-.portfolio-list.list {
-  list-style: none;
-}
-.portfolio-list-item {
-}
-.portfolio-button {
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: #4d5ae5;
-  cursor: pointer;
-  background-color: #f4f4fd;
-}
-.portfolio-button:focus,
-.portfolio-button:hover {
-  color: #ffffff;
-  background-color: #404bbf;
-}
