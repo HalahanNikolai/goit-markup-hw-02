@@ -123,6 +123,7 @@ ul {
   /* background-color: #f5f4fa; */
 }
 .btn1 {
+  font-family: inherit;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -133,9 +134,9 @@ ul {
 
 .btn1:hover,
 .btn1:focus {
-  background: #2196f3;
+  background: #404bbf;
   cursor: pointer;
-  color: #f5f4fa;
+  color: #ffffff;
 }
 
 .btn2:hover,
