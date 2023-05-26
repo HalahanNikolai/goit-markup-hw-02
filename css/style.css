@@ -34,22 +34,16 @@ ul {
   list-style-type: none;
 }
 
-/* .view {
-  align-items: flex-start;
-  display: flex;
-  height: 80px;
-  margin-left: 2px;
-  min-width: 1600px;
-}
+
 
 .navig-menu {
-  align-items: flex-start;
+  /* align-items: flex-start;
   display: flex;
   gap: 50px;
   margin-left: 90px;
   margin-top: 1px;
   min-width: 290px;
-} */
+} */ */
 .logo {
   text-decoration: none;
   font-family: "Raleway", sans-serif;
