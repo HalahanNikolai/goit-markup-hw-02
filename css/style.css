@@ -91,11 +91,13 @@ ul {
 } */
 /************************************************************************************************************* */
 .studio-btn {
-  /* width: 216px;
-  height: 50px;
-  left: 692px;
-  top: 524px; */
-  background: #4d5ae5;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--hero-sect-color);
+  background-color: #4d5ae5;
+  cursor: pointer;
 }
 .studio-btn:hover,
 .studio-btn:focus {
