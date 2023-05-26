@@ -353,10 +353,11 @@ footer {
 /*? ****************** HEADER  ******************/
 .list {
   list-style: none;
-}
-.adr-list {
   font-style: normal;
 }
+/* .adr-list {
+
+} */
 .link {
   text-decoration: none;
 }
