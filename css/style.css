@@ -280,13 +280,14 @@ footer {
 .nav-link1 {
   text-decoration: none;
   font-weight: 500;
-  line-height: calc(16 / 14);
+  font-size: 16px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 .nav-link1:hover,
 .nav-link1:focus {
-  color: #2196f3;
+  color: #404bbf;
 }
 /* .nav-link2:hover,
 .nav-link2:focus {
@@ -355,6 +356,10 @@ footer {
 .list {
   list-style: none;
 }
+.adr-list {
+  font-style: normal;
+}
+
 /*? ****************** MAIN  ******************/
 .section-btn {
   background-color: var(--main-light-color);
