@@ -12,6 +12,7 @@
   --notmain-color: #2e2f42;
   --stud-color-sect-work: #2e2f42;
   --stud-color-sect-team: #2e2f42;
+  --prtf-color-pic-text2: #2e2f42;
 }
 /*Global styles*/
 body {
@@ -183,11 +184,11 @@ ul {
   color: #212121;
 }
 .pic-text2 {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 30px;
-  letter-spacing: 0.03em;
-  color: #757575;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--prtf-color-pic-text2);
 }
 
 /* ********************************************  main (studio) *****************************************/
