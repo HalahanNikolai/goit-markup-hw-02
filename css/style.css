@@ -310,6 +310,9 @@ footer {
 .link:focus {
   color: #404bbf;
 }
+.prtf-prjkt-link {
+  text-decoration: none;
+}
 
 /*? ****************** MAIN  ******************/
 .section-btn {
