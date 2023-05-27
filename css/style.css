@@ -396,6 +396,10 @@ footer {
 
 .prtf-prjkt-pict {
 }
+.prtf-prjkt-pict.list {
+  text-decoration: none;
+}
+
 .proj-pictures.list {
   list-style: none;
 }
