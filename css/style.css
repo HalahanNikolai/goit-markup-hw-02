@@ -111,20 +111,11 @@ ul {
   color: #ffffff;
 }
 /************************************************************************************************************* */
-.btn1-txt {
-  font-family: inherit;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: calc(26 / 16);
-  /* text-a__lign: c__enter; */
-  letter-spacing: 0.03em;
-  /* color: #212121; */
-  /* background-color: #f5f4fa; */
-}
+
 .btn-list-item {
 }
 
-.btn1 {
+.btn-prtf {
   font-family: inherit;
   font-weight: 500;
   line-height: 1.5;
@@ -135,39 +126,11 @@ ul {
   background-color: #f4f4fd;
 }
 
-.btn1:hover,
-.btn1:focus {
+.btn-prtf:hover,
+.btn-prtf:focus {
   background: #404bbf;
   cursor: pointer;
   color: #ffffff;
-}
-
-.btn2:hover,
-.btn2:focus {
-  /* border: ; */
-  background: #2196f3;
-  cursor: pointer;
-  color: #f5f4fa;
-}
-.btn3:hover,
-.btn3:focus {
-  background: #2196f3;
-  cursor: pointer;
-  color: #f5f4fa;
-}
-
-.btn4:hover,
-.btn4:focus {
-  background: #2196f3;
-  cursor: pointer;
-  color: #f5f4fa;
-}
-
-.btn5:hover,
-.btn5:focus {
-  background: #2196f3;
-  cursor: pointer;
-  color: #f5f4fa;
 }
 .pic-text1 {
   /* font-style: normal; */
