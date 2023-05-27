@@ -186,18 +186,18 @@ ul {
 }
 
 /* ********************************************  main (studio) *****************************************/
-.stud_main_sect_1 {
+.stud_main_sect_stud {
   background-color: #2e2f42;
 }
 
 .about-us-list {
   list-style: none;
 }
-.studio-main-text1 {
+.studio-main-text-one {
   font-weight: 900;
   font-size: 56px;
   line-height: 1.07;
-  /* t_ext-a_lign: center; */
+  text-align: center;
   letter-spacing: 0.02em;
   text-transform: uppercase;
   color: #ffffff;
@@ -212,7 +212,7 @@ ul {
 }
 .about-us {
 }
-.studio-main-text22 {
+.studio-main-text-two {
   /* font-weight: 64px; */
   font-size: 16px;
   line-height: 1.5;
