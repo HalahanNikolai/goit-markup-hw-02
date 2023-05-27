@@ -376,7 +376,7 @@ footer {
 .adr-list {
   font-style: normal;
 }
-.link {
+.prtf-prjkt-pict.link {
   text-decoration: none;
 }
 .link:hover,
@@ -387,6 +387,9 @@ footer {
 /*? ****************** MAIN  ******************/
 .section-btn {
   background-color: var(--main-light-color);
+}
+
+.prtf-prjkt-pict {
 }
 
 /* .pic-list{
