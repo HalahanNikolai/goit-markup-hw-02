@@ -132,7 +132,7 @@ ul {
   cursor: pointer;
   color: #ffffff;
 }
-.pic-text1 {
+.pic-text-prtf-list {
   /* font-style: normal; */
   font-weight: 700;
   font-size: 18px;
@@ -140,7 +140,7 @@ ul {
   letter-spacing: 0.06em;
   color: #212121;
 }
-.pic-text2 {
+.pic-text-prtf-lis-two {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -232,6 +232,7 @@ footer {
 
 .logo-part-footer {
   color: #f4f4fd;
+  line-height: 1.5;
 }
 
 .nav-link-footer {
