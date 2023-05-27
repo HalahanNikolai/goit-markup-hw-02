@@ -10,6 +10,7 @@
   --color-text-nav-link: #212121;
   --foot-color-bckgrnd: #2e2f42;
   --notmain-color: #2e2f42;
+  --stud-color-sect-work: #2e2f42;
 }
 /*Global styles*/
 body {
@@ -219,13 +220,18 @@ ul {
   /* text-transform: uppercase;
   color: #434455; */
 }
+
+.stud-work {
+}
+
 .studio-main-text3 {
   font-weight: 700;
   font-size: 36px;
-  line-height: calc(42 / 36);
+  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #212121;
+  color: var(--stud-color-sect-work);
+  text-transform: capitalize;
 }
 .text-names-pipls {
   font-weight: 500;
