@@ -337,41 +337,19 @@ footer {
 /* ************************************************vvvvvvvvvvvvvv******************************************* */
 /* .studio-pictures1 */
 .chym_zaymaemos {
-  /* display: flex;
-  flex-direction: row; */
   margin: 2%;
 }
 
 .nashaKomanda {
-  /* display: flex;
-  flex-direction: row; */
   margin: 2%;
 }
 
 /* *************************************************** PORTFOLIO ******************************************** */
 .buttons-filtres {
-  /* align-items: center;
-  display: flex;
-  g__ap: 8px;
-  height: 54px;
-  flex-direction: row;
-  min-height: 54px;
-  width: 73px;
-
-  white-space: nowrap; */
 }
 
 /* .pic-box1  */
 .pics {
-  /* align-items: center;
-  background-color: #f5f4fa;
-  border: 1px solid;
-  border-color: #757575;
-  display: flex;
-  flex-direction: column;
-  g__ap: 20px;
-  min-height: 400px;
-  width: 370px; */
 }
 /*? ****************** HEADER  ******************/
 .list {
