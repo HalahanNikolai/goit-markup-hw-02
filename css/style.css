@@ -126,10 +126,14 @@ ul {
   /* color: #212121; */
   /* background-color: #f5f4fa; */
 }
+.btn-list-item {
+}
+
 .btn1 {
   font-family: inherit;
   font-weight: 500;
   line-height: 1.5;
+  font-size: 16px;
   letter-spacing: 0.04em;
   color: #4d5ae5;
   cursor: pointer;
@@ -390,6 +394,9 @@ footer {
 }
 
 .prtf-prjkt-pict {
+}
+.proj-pictures.list {
+  list-style: none;
 }
 
 /* .pic-list{
