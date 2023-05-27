@@ -11,6 +11,7 @@
   --foot-color-bckgrnd: #2e2f42;
   --notmain-color: #2e2f42;
   --stud-color-sect-work: #2e2f42;
+  --stud-color-sect-team: #2e2f42;
 }
 /*Global styles*/
 body {
@@ -223,23 +224,29 @@ ul {
 
 .stud-work {
 }
+.stud-team {
+  background-color: #f4f4fd;
+}
+.stud-sect4-bgrnd {
+  background-color: #ffffff;
+}
 
 .studio-main-text3 {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.02em;
   color: var(--stud-color-sect-work);
   text-transform: capitalize;
 }
 .text-names-pipls {
   font-weight: 500;
-  font-size: 16px;
-  line-height: calc(19 / 16);
-  /* text-align: center; */
-  letter-spacing: 0.03em;
-  color: #212121;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+
+  color: var(--stud-color-sect-team);
 }
 
 .backgraund-tiams {
