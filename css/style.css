@@ -189,15 +189,15 @@ ul {
 .stud-team {
   background-color: #f4f4fd;
 }
-.stud-sect4-bgrnd {
+.stud-sect-four-bgrnd {
   background-color: #ffffff;
 }
 
-.studio-main-text3 {
+.studio-main-text-stud {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
-  /* text-a_lign: center; */
+  text-align: center;
   letter-spacing: 0.02em;
   color: var(--stud-color-sect-work);
   text-transform: capitalize;
