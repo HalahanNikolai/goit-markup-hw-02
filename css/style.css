@@ -230,11 +230,11 @@ footer {
   color: #f4f4fd;
 }
 
-.logo-part2 {
+.logo-part-footer {
   color: #f4f4fd;
 }
 
-.nav-link2 {
+.nav-link-footer {
   text-decoration: none;
   font-style: normal;
   font-weight: 500;
@@ -255,10 +255,6 @@ footer {
 .nav-link-stud-hdr:focus {
   color: #404bbf;
 }
-/* .nav-link2:hover,
-.nav-link2:focus {
-  color: #2196f3;
-} */
 
 .nav-link3 {
   text-decoration: none;
