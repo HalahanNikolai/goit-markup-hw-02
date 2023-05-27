@@ -280,7 +280,7 @@ footer {
   color: #f4f4fd;
   column-count: 1;
 }
-.nav-link1 {
+.nav-link-stud-hdr {
   text-decoration: none;
   font-weight: 500;
   font-size: 16px;
@@ -288,8 +288,8 @@ footer {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.nav-link1:hover,
-.nav-link1:focus {
+.nav-link-stud-hdr:hover,
+.nav-link-stud-hdr:focus {
   color: #404bbf;
 }
 /* .nav-link2:hover,
