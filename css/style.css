@@ -13,6 +13,7 @@
   --stud-color-sect-work: #2e2f42;
   --stud-color-sect-team: #2e2f42;
   --prtf-color-pic-text2: #2e2f42;
+  --prtf-color-pic-text3: #434455;
 }
 /*Global styles*/
 body {
@@ -134,18 +135,19 @@ ul {
 }
 .pic-text-prtf-list {
   /* font-style: normal; */
-  font-weight: 700;
-  font-size: 18px;
-  line-height: calc(36 / 18);
-  letter-spacing: 0.06em;
-  color: #212121;
-}
-.pic-text-prtf-lis-two {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--prtf-color-pic-text2);
+}
+.pic-text-prtf-lis-two {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--prtf-color-pic-text3);
+  text-decoration: none;
 }
 
 /* ********************************************  main (studio) *****************************************/
